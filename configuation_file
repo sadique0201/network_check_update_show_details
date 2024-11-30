@@ -1,0 +1,15 @@
+Step-by-Step Configuration and Execution
+Step 1: Set Up Your Environment
+Install Python:
+Ensure you have Python installed on your machine. You can download it from python.org.
+Create a Virtual Environment (optional but recommended):
+Open your terminal or command prompt.
+Navigate to your project directory.
+Create a virtual environment:
+Step 2: Install Required Libraries
+Install OpenCV and psutil:
+In your terminal, run: pip install opencv-python psutil
+Install Other Required Libraries: pip install pillow
+now consider README.md file and follow all the steps 1,2,3 and 4
+
+
