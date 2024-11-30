@@ -1,0 +1,21 @@
+INFO:root:Customer ID: 1, Complaint: Unauthorized transaction on credit card
+INFO:root:Customer ID: 2, Complaint: Suspicious activity detected
+INFO:root:Customer ID: 1, Complaint: Unauthorized transaction on credit card
+INFO:root:Customer ID: 2, Complaint: Suspicious activity detected
+INFO:root:Customer ID: 3, Complaint: Order not received
+INFO:root:Customer ID: 4, Complaint: Incorrect billing
+INFO:root:Customer ID: 5, Complaint: Unable to login to account
+INFO:root:Customer ID: 1, Complaint: Unauthorized transaction on credit card
+INFO:root:Customer ID: 2, Complaint: Suspicious activity detected
+INFO:root:Customer ID: 1, Complaint: Unauthorized transaction on credit card
+INFO:root:Customer ID: 2, Complaint: Suspicious activity detected
+INFO:root:Customer ID: 3, Complaint: Order not received
+INFO:root:Customer ID: 4, Complaint: Incorrect billing
+INFO:root:Customer ID: 5, Complaint: Unable to login to account
+INFO:root:Customer ID: 1, Complaint: Unauthorized transaction on credit card
+INFO:root:Customer ID: 2, Complaint: Suspicious activity detected
+INFO:root:Customer ID: 1, Complaint: Unauthorized transaction on credit card
+INFO:root:Customer ID: 2, Complaint: Suspicious activity detected
+INFO:root:Customer ID: 3, Complaint: Order not received
+INFO:root:Customer ID: 4, Complaint: Incorrect billing
+INFO:root:Customer ID: 5, Complaint: Unable to login to account
